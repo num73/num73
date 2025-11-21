@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @num73.
-- I can work with Java, C, C++, Python.
-- I am now doing some linux file system things.
